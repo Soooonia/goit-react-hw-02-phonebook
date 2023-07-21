@@ -1,0 +1,22 @@
+.btn{
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+label{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 5px 5px;
+    width: 200px;
+}
+
+.formContainer{
+    padding: 10px;
+    padding-right: 150px;
+    width: max-content;
+border: 0.5px solid black;
+border-radius: 4px;
+margin-bottom: 20px;
+}

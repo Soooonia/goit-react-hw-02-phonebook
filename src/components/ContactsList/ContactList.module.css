@@ -1,0 +1,26 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    list-style: disc;
+}
+
+.item{
+    display: inline-flex;
+}
+
+.item:not(:first-of-type){
+    margin-top: 20px;
+}
+
+.name{
+
+}
+
+.number{
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.btn{
+
+}
